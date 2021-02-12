@@ -1,0 +1,6 @@
+SRS link  : https://docs.google.com/document/d/1TDYAcSFp3IgzLklXdDrcxpjzNXlLeydxKoj2fa8yYXw/edit#
+1. https://projectsgeek.com/2017/11/car-rental-system-project.html
+2. https://www.scribd.com/embeds/297187031/content?start_page=1&view_mode=scroll&show_recommendations=true
+3. https://fdocuments.in/document/car-rental-srs-document.html
+4. https://www.scribd.com/document/314836902/Car-rental-System-System-Requirement-Definition
+FOCUS 5. https://www.slideshare.net/sotbar7/car-rental-agency-database-mysql
